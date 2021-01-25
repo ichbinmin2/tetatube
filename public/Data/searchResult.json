@@ -1,0 +1,850 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "NNdyzCNFGbjgXJxQ-pmBqo9gYu4",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-vYuFyOgffGGnQqseuL31d3nbbM",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UC9Dln8col-vr7GB1UTR789w"
+      },
+      "snippet": {
+        "publishedAt": "2011-11-13T06:12:54Z",
+        "channelId": "UC9Dln8col-vr7GB1UTR789w",
+        "title": "HAIM",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwng5r5NH_5ypqN8-ZsILCU2x6hmDPTBNwFllwdBKkA=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwng5r5NH_5ypqN8-ZsILCU2x6hmDPTBNwFllwdBKkA=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwng5r5NH_5ypqN8-ZsILCU2x6hmDPTBNwFllwdBKkA=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "HAIM",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2011-11-13T06:12:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9F98lDqtyEwbSlMdoD64CsOn348",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yPQfcG-eimk"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-22T13:12:29Z",
+        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
+        "title": "HAIM - Want You Back (Official Video)",
+        "description": "The official video for 'Want You Back' by HAIM. Directed by Jake Schreier New album 'Something To Tell You' available now: http://haim.lnk.to/stty/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yPQfcG-eimk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yPQfcG-eimk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yPQfcG-eimk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HaimVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-22T13:12:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6XCttKTdAEKfWErHjtgahDXNI1w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J2O_xa8cems"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-03T19:30:00Z",
+        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
+        "title": "Haim - The Steps (Official Video)",
+        "description": "Haim - The Steps Listen: https://HAIM.lnk.to/TheStepsVD Follow HAIM: http://facebook.com/haimtheband http://twitter.com/haimtheband ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J2O_xa8cems/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J2O_xa8cems/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J2O_xa8cems/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HaimVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-03T19:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l7VAoAn0dpIV882juISIT7hz1N0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZjuA_o6Jzyo"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-31T18:28:48Z",
+        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
+        "title": "Haim - Summer Girl",
+        "description": "HAIM - Summer Girl Listen: https://HAIM.lnk.to/SummerGirlVD Follow HAIM: http://facebook.com/haimtheband http://twitter.com/haimtheband ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZjuA_o6Jzyo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZjuA_o6Jzyo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZjuA_o6Jzyo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HaimVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-31T18:28:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vf5fPEvPlAbBviOJr1YEtPGRKEw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G-UnzRM24IM"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-30T19:30:11Z",
+        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
+        "title": "Haim - Now I&#39;m In It",
+        "description": "HAIM - Now I'm In It Listen: https://HAIM.lnk.to/NowImInItVD Follow HAIM: http://facebook.com/haimtheband http://twitter.com/haimtheband ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G-UnzRM24IM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G-UnzRM24IM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G-UnzRM24IM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HaimVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-30T19:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Art34Tm6zYKJuhn7obMM9p-opb8",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g"
+      },
+      "snippet": {
+        "publishedAt": "2012-10-09T17:48:36Z",
+        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
+        "title": "HaimVEVO",
+        "description": "HAIM on Vevo - Official Music Videos, Live Performances, Interviews and more...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwnhKJmVWGNEUMi2CKBQzmZ_auvoh0COl0ycqLZt6=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwnhKJmVWGNEUMi2CKBQzmZ_auvoh0COl0ycqLZt6=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AAUvwnhKJmVWGNEUMi2CKBQzmZ_auvoh0COl0ycqLZt6=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "HaimVEVO",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2012-10-09T17:48:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Pv6BRVffs-sAYr8DtTMurdIEgi0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vfZSgr_si4I"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-29T16:00:10Z",
+        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
+        "title": "HAIM - I Know Alone (Official Video)",
+        "description": "HAIM - I Know Alone // Listen: https://HAIM.lnk.to/IKnowAlone Directed remotely by Jake Schreier // Choreographed remotely by Francis and the Lights & Haim ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vfZSgr_si4I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vfZSgr_si4I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vfZSgr_si4I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HaimVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-29T16:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "37dau6xEXCjzO7NaXNDaCtcx5M8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sEwM6ERq0gc"
+      },
+      "snippet": {
+        "publishedAt": "2012-06-07T17:03:16Z",
+        "channelId": "UC9Dln8col-vr7GB1UTR789w",
+        "title": "HAIM - Forever (Official Music Video)",
+        "description": "\"Forever\" by HAIM. Debut album 'Days Are Gone' out now. Purchase standard: http://haaa.im/DaysAreGoneFB Purchase deluxe: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sEwM6ERq0gc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sEwM6ERq0gc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sEwM6ERq0gc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HAIM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-06-07T17:03:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D_fdJxYldVHX92nd23bN8UbmdzQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z1LLWHroWgA"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-27T13:00:08Z",
+        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
+        "title": "HAIM - Right Now (Live)",
+        "description": "New album 'Something To Tell You' available now: http://haim.lnk.to/stty Director: Paul Thomas Anderson Recording produced by: Ariel Rechtshaid Producers: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z1LLWHroWgA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z1LLWHroWgA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z1LLWHroWgA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HaimVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-27T13:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2YJng4jnAxBO8_puNw1-J-FhP4s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NqIiYJX1Xw8"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-07T16:00:12Z",
+        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
+        "title": "Haim - Man From The Magazine (Official Video)",
+        "description": "HAIM - Man From The Magazine (Official Video) Listen now: https://HAIM.lnk.to/ManFromTheMagazineID Follow HAIM: http://facebook.com/haimtheband ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NqIiYJX1Xw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NqIiYJX1Xw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NqIiYJX1Xw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HaimVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-07T16:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YfGUno9Cyc-Ud31dny1bgSEHIuk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VN8dienBP9I"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-19T17:00:08Z",
+        "channelId": "UCRXiA3h1no_PFkb1JCP0yMA",
+        "title": "Every Outfit the Haim Sisters Wear in a Week | 7 Days, 7 Looks | Vogue",
+        "description": "Same, same but different: Este, Danielle, and Alana Haim shows off their individuality and style for the latest installment of Vogue's video series, 7 Days 7 Looks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VN8dienBP9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VN8dienBP9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VN8dienBP9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vogue",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-19T17:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B0VgGO2vD_q-dkZdWDHINCCWFz0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "crZvtA9I4lY"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-29T16:00:12Z",
+        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
+        "title": "Haim - Don&#39;t Wanna (Official Video)",
+        "description": "Listen to 'Don't Wanna' now: https://HAIM.lnk.to/DontWannaID The official video for HAIM - Don't Wanna Follow HAIM: http://facebook.com/haimtheband ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/crZvtA9I4lY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/crZvtA9I4lY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/crZvtA9I4lY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HaimVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-29T16:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fX0iZk0iarahmwUnHRugdu364nE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jHRINgBk3YA"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-17T19:06:53Z",
+        "channelId": "UC9Dln8col-vr7GB1UTR789w",
+        "title": "Haim – Christmas Wrapping 2020 (all I want for christmas is a vaccine)",
+        "description": "HAPPY HANUKKAH!! presenting our FIRST EVER holiday song: Christmas Wrapping 2020 (All I Want for Christmas is a Vaccine) lyrics by the one and only ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jHRINgBk3YA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jHRINgBk3YA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jHRINgBk3YA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HAIM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-17T19:06:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h_M-AiIrUx0vVvmBj0AbfjxICJs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ljg6g7BAdQo"
+      },
+      "snippet": {
+        "publishedAt": "2014-02-25T00:00:01Z",
+        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
+        "title": "HAIM - If I Could Change Your Mind (Official Video)",
+        "description": "The official video for 'If I Could Change Your Mind' by HAIM. Directed by Warren Fu. Choreographed by Fatima Robinson Follow HAIM: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ljg6g7BAdQo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ljg6g7BAdQo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ljg6g7BAdQo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HaimVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-02-25T00:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JeOwwa2WJwFKwGMfjoD8n1zkpBk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V_eJU6X3_jQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-26T22:35:41Z",
+        "channelId": "UC9Dln8col-vr7GB1UTR789w",
+        "title": "HAIM – WOMEN IN MUSIC PT III LIVE SHOW",
+        "description": "Women in Music Pt. III Out Now: haim.lnk.to/WIMP3.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V_eJU6X3_jQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V_eJU6X3_jQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V_eJU6X3_jQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HAIM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-26T22:35:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f4kDiORLD67JBpPZKV8hcKK_kGk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fpfJFotlENk"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-18T17:00:12Z",
+        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
+        "title": "Haim - Hallelujah (Official Video)",
+        "description": "HAIM - Hallelujah Listen: https://Haim.lnk.to/HallelujahVD Director: Paul Thomas Anderson Producers: Sara Murphy, Erica Frauman Editor: Andy Jurgensen ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fpfJFotlENk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fpfJFotlENk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fpfJFotlENk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HaimVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-18T17:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Zs6pXKLDsFQgiQ-a5LtHocoX67A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ewj6V_nAw1I"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-22T08:40:20Z",
+        "channelId": "UCJ0uqCI0Vqr2Rrt1HseGirg",
+        "title": "Haim: Don&#39;t Wanna",
+        "description": "James Corden connects with the sisters of Haim who are safe, but separate in quarantine. After Alana and Danielle agree Este is doing the worst with social ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ewj6V_nAw1I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ewj6V_nAw1I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ewj6V_nAw1I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Late Late Show with James Corden",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-22T08:40:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "79dvvG_p2RFn3i07N_iAmNr0CHM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U7rZpwjiyIE"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-08T21:33:14Z",
+        "channelId": "UC9DkCKm4_VDztRRyge4mCJQ",
+        "title": "HAIM - What&#39;s in My Bag?",
+        "description": "Pop/rock trio HAIM go shopping at Amoeba Music in Los Angeles. Their latest album 'Something To Tell You' is available on Columbia Records. Check out their ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U7rZpwjiyIE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U7rZpwjiyIE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U7rZpwjiyIE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Amoeba",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-08T21:33:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "begrbHyz0accKmMbH6qun6srfcg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EvZzEfBjXDM"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-28T14:00:03Z",
+        "channelId": "UC-SJ6nODDmufqBzPBwCvYvQ",
+        "title": "Saturday Sessions: Haim performs &quot;Gasoline&quot;",
+        "description": "Southern California music group Haim — made up of sisters Alana, Este and Danielle — are nominated for two 2020 Grammy Awards, including Album of the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EvZzEfBjXDM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EvZzEfBjXDM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EvZzEfBjXDM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CBS This Morning",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-28T14:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l5bfc4jefVT0CrANfyERX2LhQ6M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4NJYWgb6dQM"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-02T13:00:00Z",
+        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
+        "title": "HAIM - Little of Your Love (Video)",
+        "description": "Official music video for \"Little of Your Love\" by Haim Listen to Haim: https://Haim.lnk.to/listenYD Director: Paul Thomas Anderson Producers: Sara Murphy, Erica ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4NJYWgb6dQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4NJYWgb6dQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4NJYWgb6dQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HaimVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-02T13:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5Gf1xilCuO45ndvsOadpgcgzD5o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kiqIush2nTA"
+      },
+      "snippet": {
+        "publishedAt": "2012-11-26T08:00:22Z",
+        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
+        "title": "HAIM - Don&#39;t Save Me (Official Music Video)",
+        "description": "Available now: http://smarturl.it/DaysAreGone Pre-Order Vinyl at Neon Gold Records (US) & Rough Trade (UK) out Dec. 10th: http://haaa.im/b2cafz TWITTER: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kiqIush2nTA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kiqIush2nTA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kiqIush2nTA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HaimVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-11-26T08:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6YggToso2LVBCLsZKCS5SbR8Ulk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FoC-l5-y8Eo"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-07T20:34:34Z",
+        "channelId": "UC9Dln8col-vr7GB1UTR789w",
+        "title": "HAIM - 3AM (Late Night with Seth Meyers)",
+        "description": "Women In Music Pt. iii out now: https://HAIM.lnk.to/WIMPIIIID Follow HAIM: https://www.instagram.com/haimtheband/ https://www.facebook.com/haimtheband ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FoC-l5-y8Eo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FoC-l5-y8Eo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FoC-l5-y8Eo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HAIM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-07T20:34:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "paD2Rq4_lnvUg81v3KtQWCR82W8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MBDN0CD3HZ4"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-28T13:42:00Z",
+        "channelId": "UC-SJ6nODDmufqBzPBwCvYvQ",
+        "title": "Saturday Sessions: Haim performs &quot;The Steps&quot;",
+        "description": "Southern California music group Haim — made up of sisters Alana, Este and Danielle — are nominated for two 2020 Grammy Awards, including Album of the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MBDN0CD3HZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MBDN0CD3HZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MBDN0CD3HZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CBS This Morning",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-28T13:42:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qyXhWD78zjkhtDEsxTin0wijrwE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cl0nBN1r2c0"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-20T17:00:08Z",
+        "channelId": "UCq4isO8ZYOZfmvGJ-_1UdIA",
+        "title": "Haim Performs &quot;Gasoline&quot; | Press Play",
+        "description": "Los Angeles family band Haim lay it down and light it up with this at-home performance of \"Gasoline\" from their newly released third album, 'Women In Music Pt.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cl0nBN1r2c0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cl0nBN1r2c0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cl0nBN1r2c0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Recording Academy / GRAMMYs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-20T17:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "65O6T_FfYd2ZR0J8Av4HyG2qV9s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1TffpkE2GU4"
+      },
+      "snippet": {
+        "publishedAt": "2013-08-12T19:01:08Z",
+        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
+        "title": "HAIM - The Wire (Official Music Video)",
+        "description": "'The Wire' is taken from 'Days Are Gone' Available now: http://smarturl.it/DaysAreGone Available on vinyl- US: http://haaa.im/HJ4qzm EU: http://haaa.im/Uxfa ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1TffpkE2GU4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1TffpkE2GU4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1TffpkE2GU4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HaimVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-08-12T19:01:08Z"
+      }
+    }
+  ]
+}

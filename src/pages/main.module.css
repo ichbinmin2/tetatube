@@ -1,0 +1,17 @@
+.main {
+  width: 100vw;
+  height: 100vh;
+}
+.boxList {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  height: inherit;
+  border: red;
+}

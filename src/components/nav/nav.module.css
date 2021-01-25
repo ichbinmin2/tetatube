@@ -1,0 +1,48 @@
+.nav {
+  width: 100vw;
+  height: 100px;
+  background-color: lightcoral;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.titleBox {
+  margin-right: 30px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  margin-right: 15px;
+  width: 30px;
+}
+
+.title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.form {
+  position: relative;
+  width: 500px;
+  height: 30px;
+}
+
+.input {
+  padding-left: 10px;
+  width: inherit;
+  height: inherit;
+  background-color: gainsboro;
+  border-radius: 2.5em;
+  border: none;
+}
+
+.icon {
+  position: absolute;
+  width: 1rem;
+  right: 1rem;
+  top: 0.4rem;
+}
