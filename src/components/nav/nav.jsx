@@ -1,29 +1,43 @@
-import React, { Component } from "react";
+import React, { useRef } from "react";
 import styles from "../nav/nav.module.css";
 
-class Nav extends Component {
-  inputRef = React.createRef;
-  // onSaerch = (event) => {
-  //   event.preventDefault();
-  //   const searchText = this.inputRef.current.value;
-  //   searchText && this.props.onAdd(searchText);
-  //   this.inputRef.current.value = "";
-  // };
+const Nav = ({ onSearch }) => {
+  const inputRef = useRef();
+  const handlerSearch = () => {
+    const value = inputRef.current.value;
+    onSearch(value);
+    inputRef.current.value = "";
+  };
+  const onClick = () => {
+    handlerSearch();
+  };
 
-  render() {
-    return (
-      <nav className={styles.nav}>
-        <div className={styles.titleBox}>
-          <img className={styles.logo} src="/images/logo.png" alt="logo" />
-          <span className={styles.title}>TetaTube</span>
-        </div>
+  const onKeyPress = (event) => {
+    if (event.key === "Enter") {
+      handlerSearch();
+    }
+  };
 
-        <form className={styles.form}>
-          <input className={styles.input} placeholder="Seach" />
+  return (
+    <header className={styles.header}>
+      <div className={styles.titleBox}>
+        <img className={styles.logo} src="/images/logo.png" alt="logo" />
+        <span className={styles.title}>TETATUBE</span>
+      </div>
+
+      <div className={styles.form}>
+        <input
+          ref={inputRef}
+          className={styles.input}
+          placeholder="Seach"
+          onKeyPress={onKeyPress}
+        />
+        <button type="submit" onClick={onClick}>
           <img className={styles.icon} src="/images/search.png" alt="icon" />
-        </form>
-      </nav>
-    );
-  }
-}
+        </button>
+      </div>
+    </header>
+  );
+};
+
 export default Nav;

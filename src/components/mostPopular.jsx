@@ -30,7 +30,7 @@ class MostPopular extends Component {
             alt="thumnails"
           />
           <span className={styles.channel}>{this.props.videoChannel}</span>
-          <span className={styles.Title}> {this.props.videoTitle}</span>
+          <span className={styles.title}> {this.props.videoTitle}</span>
         </button>
       </ul>
     );

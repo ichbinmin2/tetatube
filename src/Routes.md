@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+<!-- import React, { Component } from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Nav from "./components/nav/nav";
 import Main from "./pages/main";
@@ -8,13 +8,13 @@ class Routes extends Component {
   render() {
     return (
       <Router>
-        <Route exact path="/" component={Main} />
         <Switch>
-          <Route path="/detail" component={Detail} />
+          {/* <Route exact path="/" component={Main} /> */}
+          <Route exact path="/main" component={Detail} />
         </Switch>
       </Router>
     );
   }
 }
 
-export default Routes;
+export default Routes; -->

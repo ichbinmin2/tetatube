@@ -1,849 +1,827 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "NNdyzCNFGbjgXJxQ-pmBqo9gYu4",
-  "nextPageToken": "CBkQAA",
+  "etag": "t2Z3lWXFGzDOOJR3Sf-0laHgco8",
+  "nextPageToken": "CBgQAA",
   "regionCode": "KR",
   "pageInfo": {
     "totalResults": 1000000,
-    "resultsPerPage": 25
+    "resultsPerPage": 24
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "-vYuFyOgffGGnQqseuL31d3nbbM",
-      "id": {
-        "kind": "youtube#channel",
-        "channelId": "UC9Dln8col-vr7GB1UTR789w"
-      },
-      "snippet": {
-        "publishedAt": "2011-11-13T06:12:54Z",
-        "channelId": "UC9Dln8col-vr7GB1UTR789w",
-        "title": "HAIM",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/ytc/AAUvwng5r5NH_5ypqN8-ZsILCU2x6hmDPTBNwFllwdBKkA=s88-c-k-c0xffffffff-no-rj-mo"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/ytc/AAUvwng5r5NH_5ypqN8-ZsILCU2x6hmDPTBNwFllwdBKkA=s240-c-k-c0xffffffff-no-rj-mo"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/ytc/AAUvwng5r5NH_5ypqN8-ZsILCU2x6hmDPTBNwFllwdBKkA=s800-c-k-c0xffffffff-no-rj-mo"
-          }
-        },
-        "channelTitle": "HAIM",
-        "liveBroadcastContent": "upcoming",
-        "publishTime": "2011-11-13T06:12:54Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "9F98lDqtyEwbSlMdoD64CsOn348",
+      "etag": "OHnAa6jSrmo6GnqygxrIP0hfRlg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "yPQfcG-eimk"
+        "videoId": "iVg30U6O764"
       },
       "snippet": {
-        "publishedAt": "2017-06-22T13:12:29Z",
-        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
-        "title": "HAIM - Want You Back (Official Video)",
-        "description": "The official video for 'Want You Back' by HAIM. Directed by Jake Schreier New album 'Something To Tell You' available now: http://haim.lnk.to/stty/ ...",
+        "publishedAt": "2019-09-13T04:00:08Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Oncle Jazz (Full Album HQ)",
+        "description": "http://menitrust.tumblr.com https://www.instagram.com/menitrust https://menitrust.bandcamp.com https://www.facebook.com/menitrust 01 Oncle Jazz 0:00 02 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/yPQfcG-eimk/default.jpg",
+            "url": "https://i.ytimg.com/vi/iVg30U6O764/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/yPQfcG-eimk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/iVg30U6O764/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/yPQfcG-eimk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/iVg30U6O764/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HaimVEVO",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2017-06-22T13:12:29Z"
+        "publishTime": "2019-09-13T04:00:08Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "6XCttKTdAEKfWErHjtgahDXNI1w",
+      "etag": "Hn7nM0qosHBM4UMb-eAB-wEUuGA",
       "id": {
         "kind": "youtube#video",
-        "videoId": "J2O_xa8cems"
+        "videoId": "OZRYzH0Q0pU"
       },
       "snippet": {
-        "publishedAt": "2020-03-03T19:30:00Z",
-        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
-        "title": "Haim - The Steps (Official Video)",
-        "description": "Haim - The Steps Listen: https://HAIM.lnk.to/TheStepsVD Follow HAIM: http://facebook.com/haimtheband http://twitter.com/haimtheband ...",
+        "publishedAt": "2018-02-28T05:25:38Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Show Me How",
+        "description": "Shot & Directed by Men I Trust http://menitrust.tumblr.com/ https://www.instagram.com/menitrust https://menitrust.bandcamp.com ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/J2O_xa8cems/default.jpg",
+            "url": "https://i.ytimg.com/vi/OZRYzH0Q0pU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/J2O_xa8cems/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OZRYzH0Q0pU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/J2O_xa8cems/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/OZRYzH0Q0pU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HaimVEVO",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-03-03T19:30:00Z"
+        "publishTime": "2018-02-28T05:25:38Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "l7VAoAn0dpIV882juISIT7hz1N0",
+      "etag": "MPttsqyZi_moqcWLfcm0WPXaQCM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "ZjuA_o6Jzyo"
+        "videoId": "xAz_DzPUjrM"
       },
       "snippet": {
-        "publishedAt": "2019-07-31T18:28:48Z",
-        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
-        "title": "Haim - Summer Girl",
-        "description": "HAIM - Summer Girl Listen: https://HAIM.lnk.to/SummerGirlVD Follow HAIM: http://facebook.com/haimtheband http://twitter.com/haimtheband ...",
+        "publishedAt": "2019-04-29T22:37:52Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Numb",
+        "description": "http://smarturl.it/mitnumb http://menitrust.tumblr.com https://www.instagram.com/menitrust https://menitrust.bandcamp.com https://www.facebook.com/menitrust ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ZjuA_o6Jzyo/default.jpg",
+            "url": "https://i.ytimg.com/vi/xAz_DzPUjrM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ZjuA_o6Jzyo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xAz_DzPUjrM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ZjuA_o6Jzyo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/xAz_DzPUjrM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HaimVEVO",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-07-31T18:28:48Z"
+        "publishTime": "2019-04-29T22:37:52Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Vf5fPEvPlAbBviOJr1YEtPGRKEw",
+      "etag": "hXiXZhE4wcRfgE6-27x-oIYRsPs",
       "id": {
         "kind": "youtube#video",
-        "videoId": "G-UnzRM24IM"
+        "videoId": "TNsSBhl_2LI"
       },
       "snippet": {
-        "publishedAt": "2019-10-30T19:30:11Z",
-        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
-        "title": "Haim - Now I&#39;m In It",
-        "description": "HAIM - Now I'm In It Listen: https://HAIM.lnk.to/NowImInItVD Follow HAIM: http://facebook.com/haimtheband http://twitter.com/haimtheband ...",
+        "publishedAt": "2016-06-20T14:00:04Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Lauren",
+        "description": "Shot & directed by Men I Trust http://www.menitrust.com/ Model: Julia ig @__ju__lia_ There's a voice I always trust Its friendly helping hand tells me leave, I must ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/G-UnzRM24IM/default.jpg",
+            "url": "https://i.ytimg.com/vi/TNsSBhl_2LI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/G-UnzRM24IM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TNsSBhl_2LI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/G-UnzRM24IM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/TNsSBhl_2LI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HaimVEVO",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-10-30T19:30:11Z"
+        "publishTime": "2016-06-20T14:00:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Art34Tm6zYKJuhn7obMM9p-opb8",
-      "id": {
-        "kind": "youtube#channel",
-        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g"
-      },
-      "snippet": {
-        "publishedAt": "2012-10-09T17:48:36Z",
-        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
-        "title": "HaimVEVO",
-        "description": "HAIM on Vevo - Official Music Videos, Live Performances, Interviews and more...",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/ytc/AAUvwnhKJmVWGNEUMi2CKBQzmZ_auvoh0COl0ycqLZt6=s88-c-k-c0xffffffff-no-rj-mo"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/ytc/AAUvwnhKJmVWGNEUMi2CKBQzmZ_auvoh0COl0ycqLZt6=s240-c-k-c0xffffffff-no-rj-mo"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/ytc/AAUvwnhKJmVWGNEUMi2CKBQzmZ_auvoh0COl0ycqLZt6=s800-c-k-c0xffffffff-no-rj-mo"
-          }
-        },
-        "channelTitle": "HaimVEVO",
-        "liveBroadcastContent": "upcoming",
-        "publishTime": "2012-10-09T17:48:36Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "Pv6BRVffs-sAYr8DtTMurdIEgi0",
+      "etag": "BZeiLcrVkCRSuDusSbCE_LRt9EY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "vfZSgr_si4I"
+        "videoId": "9IZKcb3LndA"
       },
       "snippet": {
-        "publishedAt": "2020-04-29T16:00:10Z",
-        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
-        "title": "HAIM - I Know Alone (Official Video)",
-        "description": "HAIM - I Know Alone // Listen: https://HAIM.lnk.to/IKnowAlone Directed remotely by Jake Schreier // Choreographed remotely by Francis and the Lights & Haim ...",
+        "publishedAt": "2017-11-05T22:27:27Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Tailwhip",
+        "description": "Thanks mom, dad, and childhood friends for the home video footage (L) Shot & directed by Men I Trust http://menitrust.tumblr.com/ ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/vfZSgr_si4I/default.jpg",
+            "url": "https://i.ytimg.com/vi/9IZKcb3LndA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/vfZSgr_si4I/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9IZKcb3LndA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/vfZSgr_si4I/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/9IZKcb3LndA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HaimVEVO",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-04-29T16:00:10Z"
+        "publishTime": "2017-11-05T22:27:27Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "37dau6xEXCjzO7NaXNDaCtcx5M8",
+      "etag": "lPs0xVU7gyB8hph74NF-UvjS0uo",
       "id": {
         "kind": "youtube#video",
-        "videoId": "sEwM6ERq0gc"
+        "videoId": "eGwKvxGpLqs"
       },
       "snippet": {
-        "publishedAt": "2012-06-07T17:03:16Z",
-        "channelId": "UC9Dln8col-vr7GB1UTR789w",
-        "title": "HAIM - Forever (Official Music Video)",
-        "description": "\"Forever\" by HAIM. Debut album 'Days Are Gone' out now. Purchase standard: http://haaa.im/DaysAreGoneFB Purchase deluxe: ...",
+        "publishedAt": "2020-07-10T13:42:59Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Seven (garage session)",
+        "description": "http://menitrust.tumblr.com https://www.instagram.com/menitrust https://menitrust.bandcamp.com https://www.facebook.com/menitrust * Garage sessions FAQ: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/sEwM6ERq0gc/default.jpg",
+            "url": "https://i.ytimg.com/vi/eGwKvxGpLqs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/sEwM6ERq0gc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/eGwKvxGpLqs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/sEwM6ERq0gc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/eGwKvxGpLqs/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HAIM",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2012-06-07T17:03:16Z"
+        "publishTime": "2020-07-10T13:42:59Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "D_fdJxYldVHX92nd23bN8UbmdzQ",
+      "etag": "20PHMSXDaedgrcDngeBm5_m1T4w",
       "id": {
         "kind": "youtube#video",
-        "videoId": "z1LLWHroWgA"
+        "videoId": "bCDQN8iDCzo"
       },
       "snippet": {
-        "publishedAt": "2017-04-27T13:00:08Z",
-        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
-        "title": "HAIM - Right Now (Live)",
-        "description": "New album 'Something To Tell You' available now: http://haim.lnk.to/stty Director: Paul Thomas Anderson Recording produced by: Ariel Rechtshaid Producers: ...",
+        "publishedAt": "2020-08-17T15:56:54Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Days Go By",
+        "description": "Stream everywhere: http://hyperurl.co/dynnym Video shot on 16mm film by Men I Trust Film processing: Kodak Film Lab NY Film scanning & grading: Metropolis ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/z1LLWHroWgA/default.jpg",
+            "url": "https://i.ytimg.com/vi/bCDQN8iDCzo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/z1LLWHroWgA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bCDQN8iDCzo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/z1LLWHroWgA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/bCDQN8iDCzo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HaimVEVO",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2017-04-27T13:00:08Z"
+        "publishTime": "2020-08-17T15:56:54Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "2YJng4jnAxBO8_puNw1-J-FhP4s",
+      "etag": "Bv5cJ2RUr44SjVpQz4Q62ZCSNDg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "NqIiYJX1Xw8"
+        "videoId": "_U9epQ-0I8k"
       },
       "snippet": {
-        "publishedAt": "2020-10-07T16:00:12Z",
-        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
-        "title": "Haim - Man From The Magazine (Official Video)",
-        "description": "HAIM - Man From The Magazine (Official Video) Listen now: https://HAIM.lnk.to/ManFromTheMagazineID Follow HAIM: http://facebook.com/haimtheband ...",
+        "publishedAt": "2020-07-18T02:31:29Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Forever Live (full album HQ)",
+        "description": "Buy : https://menitrust.bandcamp.com/album/... Stream : http://smarturl.it/mitlive Tracklist: 1. All Night (Garage Session) (00:00) 2. Seven (Garage Session) (4:18) ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/NqIiYJX1Xw8/default.jpg",
+            "url": "https://i.ytimg.com/vi/_U9epQ-0I8k/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/NqIiYJX1Xw8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_U9epQ-0I8k/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/NqIiYJX1Xw8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/_U9epQ-0I8k/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HaimVEVO",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-10-07T16:00:12Z"
+        "publishTime": "2020-07-18T02:31:29Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "YfGUno9Cyc-Ud31dny1bgSEHIuk",
+      "etag": "XA14gae6V7MDeqTdtwj7SiqBKyk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "VN8dienBP9I"
+        "videoId": "DviID8Ni7Ns"
       },
       "snippet": {
-        "publishedAt": "2021-01-19T17:00:08Z",
-        "channelId": "UCRXiA3h1no_PFkb1JCP0yMA",
-        "title": "Every Outfit the Haim Sisters Wear in a Week | 7 Days, 7 Looks | Vogue",
-        "description": "Same, same but different: Este, Danielle, and Alana Haim shows off their individuality and style for the latest installment of Vogue's video series, 7 Days 7 Looks.",
+        "publishedAt": "2017-11-10T05:08:02Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - I hope to be around",
+        "description": "Shot & directed by Men I Trust http://menitrust.tumblr.com/ https://www.instagram.com/menitrust https://menitrust.bandcamp.com ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/VN8dienBP9I/default.jpg",
+            "url": "https://i.ytimg.com/vi/DviID8Ni7Ns/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/VN8dienBP9I/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DviID8Ni7Ns/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/VN8dienBP9I/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DviID8Ni7Ns/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Vogue",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-01-19T17:00:08Z"
+        "publishTime": "2017-11-10T05:08:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "B0VgGO2vD_q-dkZdWDHINCCWFz0",
+      "etag": "FUxHz0QUuP_hi5Y7hdtaDzWAtvc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "crZvtA9I4lY"
+        "videoId": "pnY7m5CK-as"
       },
       "snippet": {
-        "publishedAt": "2020-06-29T16:00:12Z",
-        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
-        "title": "Haim - Don&#39;t Wanna (Official Video)",
-        "description": "Listen to 'Don't Wanna' now: https://HAIM.lnk.to/DontWannaID The official video for HAIM - Don't Wanna Follow HAIM: http://facebook.com/haimtheband ...",
+        "publishedAt": "2018-09-06T11:23:03Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Seven",
+        "description": "Filmed and directed by Men I Trust http://menitrust.tumblr.com https://www.instagram.com/menitrust https://menitrust.bandcamp.com ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/crZvtA9I4lY/default.jpg",
+            "url": "https://i.ytimg.com/vi/pnY7m5CK-as/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/crZvtA9I4lY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pnY7m5CK-as/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/crZvtA9I4lY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pnY7m5CK-as/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HaimVEVO",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-06-29T16:00:12Z"
+        "publishTime": "2018-09-06T11:23:03Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "fX0iZk0iarahmwUnHRugdu364nE",
+      "etag": "XzXwMW6lAaQYZMt_BBhFtvd4Ins",
       "id": {
         "kind": "youtube#video",
-        "videoId": "jHRINgBk3YA"
+        "videoId": "tE9dxOKHKBs"
       },
       "snippet": {
-        "publishedAt": "2020-12-17T19:06:53Z",
-        "channelId": "UC9Dln8col-vr7GB1UTR789w",
-        "title": "Haim – Christmas Wrapping 2020 (all I want for christmas is a vaccine)",
-        "description": "HAPPY HANUKKAH!! presenting our FIRST EVER holiday song: Christmas Wrapping 2020 (All I Want for Christmas is a Vaccine) lyrics by the one and only ...",
+        "publishedAt": "2020-10-06T15:00:11Z",
+        "channelId": "UCwLxgZHR8oDOzJXtXuSB_bA",
+        "title": "Men I Trust | Best of Playlist",
+        "description": "The best Men I Trust songs so far in one playlist. Tracklist below ⬇ Subscribe ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/jHRINgBk3YA/default.jpg",
+            "url": "https://i.ytimg.com/vi/tE9dxOKHKBs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/jHRINgBk3YA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tE9dxOKHKBs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/jHRINgBk3YA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/tE9dxOKHKBs/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HAIM",
+        "channelTitle": "Indie Playlists",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-12-17T19:06:53Z"
+        "publishTime": "2020-10-06T15:00:11Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "h_M-AiIrUx0vVvmBj0AbfjxICJs",
+      "etag": "R1mqybJQIBB3nq_8VqusChVqwyk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Ljg6g7BAdQo"
+        "videoId": "7K1WVFL8_oU"
       },
       "snippet": {
-        "publishedAt": "2014-02-25T00:00:01Z",
-        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
-        "title": "HAIM - If I Could Change Your Mind (Official Video)",
-        "description": "The official video for 'If I Could Change Your Mind' by HAIM. Directed by Warren Fu. Choreographed by Fatima Robinson Follow HAIM: ...",
+        "publishedAt": "2020-10-26T23:06:24Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Lucky Sue",
+        "description": "Stream everywhere: http://smarturl.it/luckysue https://menitrust.tumblr.com Lyrics Had she lost another one She would've end just like her son Bitter man now ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Ljg6g7BAdQo/default.jpg",
+            "url": "https://i.ytimg.com/vi/7K1WVFL8_oU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Ljg6g7BAdQo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7K1WVFL8_oU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Ljg6g7BAdQo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7K1WVFL8_oU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HaimVEVO",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2014-02-25T00:00:01Z"
+        "publishTime": "2020-10-26T23:06:24Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "JeOwwa2WJwFKwGMfjoD8n1zkpBk",
+      "etag": "-tJm_0_wdUJr-0THFFr_I4vw43s",
       "id": {
         "kind": "youtube#video",
-        "videoId": "V_eJU6X3_jQ"
+        "videoId": "iUyfuC8VG5Y"
       },
       "snippet": {
-        "publishedAt": "2020-06-26T22:35:41Z",
-        "channelId": "UC9Dln8col-vr7GB1UTR789w",
-        "title": "HAIM – WOMEN IN MUSIC PT III LIVE SHOW",
-        "description": "Women in Music Pt. III Out Now: haim.lnk.to/WIMP3.",
+        "publishedAt": "2017-10-07T04:23:24Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Tailwhip (live)",
+        "description": "http://menitrust.tumblr.com/ https://www.instagram.com/menitrust https://menitrust.bandcamp.com https://www.facebook.com/menitrust Lyrics: I'm Happy as I am ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/V_eJU6X3_jQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/iUyfuC8VG5Y/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/V_eJU6X3_jQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/iUyfuC8VG5Y/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/V_eJU6X3_jQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/iUyfuC8VG5Y/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HAIM",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-06-26T22:35:41Z"
+        "publishTime": "2017-10-07T04:23:24Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "f4kDiORLD67JBpPZKV8hcKK_kGk",
+      "etag": "RAAHPwiqX_RGV-BVuDNrV4WzxEk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "fpfJFotlENk"
+        "videoId": "qmVeQEysvtk"
       },
       "snippet": {
-        "publishedAt": "2019-11-18T17:00:12Z",
-        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
-        "title": "Haim - Hallelujah (Official Video)",
-        "description": "HAIM - Hallelujah Listen: https://Haim.lnk.to/HallelujahVD Director: Paul Thomas Anderson Producers: Sara Murphy, Erica Frauman Editor: Andy Jurgensen ...",
+        "publishedAt": "2019-05-13T22:21:35Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Norton Commander (All We Need)",
+        "description": "Filmed by Men I Trust http://menitrust.tumblr.com https://www.instagram.com/menitrust https://menitrust.bandcamp.com https://www.facebook.com/menitrust ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/fpfJFotlENk/default.jpg",
+            "url": "https://i.ytimg.com/vi/qmVeQEysvtk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/fpfJFotlENk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qmVeQEysvtk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/fpfJFotlENk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qmVeQEysvtk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HaimVEVO",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-11-18T17:00:12Z"
+        "publishTime": "2019-05-13T22:21:35Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Zs6pXKLDsFQgiQ-a5LtHocoX67A",
+      "etag": "T_ysTuHkb8lry5L3Gta4dhpgxkw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "Ewj6V_nAw1I"
+        "videoId": "GSipxovUB-4"
       },
       "snippet": {
-        "publishedAt": "2020-05-22T08:40:20Z",
-        "channelId": "UCJ0uqCI0Vqr2Rrt1HseGirg",
-        "title": "Haim: Don&#39;t Wanna",
-        "description": "James Corden connects with the sisters of Haim who are safe, but separate in quarantine. After Alana and Danielle agree Este is doing the worst with social ...",
+        "publishedAt": "2020-07-10T13:42:45Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - All Night (garage session)",
+        "description": "http://menitrust.tumblr.com https://www.instagram.com/menitrust https://menitrust.bandcamp.com https://www.facebook.com/menitrust * Garage sessions FAQ: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/Ewj6V_nAw1I/default.jpg",
+            "url": "https://i.ytimg.com/vi/GSipxovUB-4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/Ewj6V_nAw1I/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GSipxovUB-4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/Ewj6V_nAw1I/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GSipxovUB-4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The Late Late Show with James Corden",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-05-22T08:40:20Z"
+        "publishTime": "2020-07-10T13:42:45Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "79dvvG_p2RFn3i07N_iAmNr0CHM",
+      "etag": "fGs_OXhm5CipS7-sZxOM2JBfSRw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "U7rZpwjiyIE"
+        "videoId": "h076DeX_Z-o"
       },
       "snippet": {
-        "publishedAt": "2018-01-08T21:33:14Z",
-        "channelId": "UC9DkCKm4_VDztRRyge4mCJQ",
-        "title": "HAIM - What&#39;s in My Bag?",
-        "description": "Pop/rock trio HAIM go shopping at Amoeba Music in Los Angeles. Their latest album 'Something To Tell You' is available on Columbia Records. Check out their ...",
+        "publishedAt": "2020-07-10T13:42:55Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Say Can You Hear (garage session)",
+        "description": "http://menitrust.tumblr.com https://www.instagram.com/menitrust https://menitrust.bandcamp.com https://www.facebook.com/menitrust * Garage sessions FAQ: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/U7rZpwjiyIE/default.jpg",
+            "url": "https://i.ytimg.com/vi/h076DeX_Z-o/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/U7rZpwjiyIE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/h076DeX_Z-o/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/U7rZpwjiyIE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/h076DeX_Z-o/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Amoeba",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-01-08T21:33:14Z"
+        "publishTime": "2020-07-10T13:42:55Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "begrbHyz0accKmMbH6qun6srfcg",
+      "etag": "zHag4J-S8K55sQU1i9LBTe47wBE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "EvZzEfBjXDM"
+        "videoId": "8capWZmXtGY"
       },
       "snippet": {
-        "publishedAt": "2020-11-28T14:00:03Z",
-        "channelId": "UC-SJ6nODDmufqBzPBwCvYvQ",
-        "title": "Saturday Sessions: Haim performs &quot;Gasoline&quot;",
-        "description": "Southern California music group Haim — made up of sisters Alana, Este and Danielle — are nominated for two 2020 Grammy Awards, including Album of the ...",
+        "publishedAt": "2019-07-24T17:24:52Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Headroom (Full Album HQ)",
+        "description": "New Album \"Oncle Jazz\" out on Fri Sept 13th http://menitrust.tumblr.com https://www.instagram.com/menitrust https://menitrust.bandcamp.com ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/EvZzEfBjXDM/default.jpg",
+            "url": "https://i.ytimg.com/vi/8capWZmXtGY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/EvZzEfBjXDM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8capWZmXtGY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/EvZzEfBjXDM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8capWZmXtGY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "CBS This Morning",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-11-28T14:00:03Z"
+        "publishTime": "2019-07-24T17:24:52Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "l5bfc4jefVT0CrANfyERX2LhQ6M",
+      "etag": "xLzP7LXHsk79QYfnfUIxQWah9Fc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "4NJYWgb6dQM"
+        "videoId": "cpU7Yrl-AwM"
       },
       "snippet": {
-        "publishedAt": "2017-10-02T13:00:00Z",
-        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
-        "title": "HAIM - Little of Your Love (Video)",
-        "description": "Official music video for \"Little of Your Love\" by Haim Listen to Haim: https://Haim.lnk.to/listenYD Director: Paul Thomas Anderson Producers: Sara Murphy, Erica ...",
+        "publishedAt": "2020-07-10T13:43:04Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Show Me How (garage session)",
+        "description": "http://menitrust.tumblr.com https://www.instagram.com/menitrust https://menitrust.bandcamp.com https://www.facebook.com/menitrust * Garage sessions FAQ: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/4NJYWgb6dQM/default.jpg",
+            "url": "https://i.ytimg.com/vi/cpU7Yrl-AwM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/4NJYWgb6dQM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cpU7Yrl-AwM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/4NJYWgb6dQM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/cpU7Yrl-AwM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HaimVEVO",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2017-10-02T13:00:00Z"
+        "publishTime": "2020-07-10T13:43:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "5Gf1xilCuO45ndvsOadpgcgzD5o",
+      "etag": "RuAMba90RMsKyKv40tDBfrocZg0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "kiqIush2nTA"
+        "videoId": "GalT7X3azLU"
       },
       "snippet": {
-        "publishedAt": "2012-11-26T08:00:22Z",
-        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
-        "title": "HAIM - Don&#39;t Save Me (Official Music Video)",
-        "description": "Available now: http://smarturl.it/DaysAreGone Pre-Order Vinyl at Neon Gold Records (US) & Rough Trade (UK) out Dec. 10th: http://haaa.im/b2cafz TWITTER: ...",
+        "publishedAt": "2020-08-13T18:59:09Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Pierre",
+        "description": "Stream everywhere: http://hyperurl.co/wk0cb1 Video shot on 16mm film by Men I Trust Film processing: Kodak Film Lab NY Film scanning & grading: Metropolis ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/kiqIush2nTA/default.jpg",
+            "url": "https://i.ytimg.com/vi/GalT7X3azLU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/kiqIush2nTA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GalT7X3azLU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/kiqIush2nTA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/GalT7X3azLU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HaimVEVO",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2012-11-26T08:00:22Z"
+        "publishTime": "2020-08-13T18:59:09Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "6YggToso2LVBCLsZKCS5SbR8Ulk",
+      "etag": "CUnCwLuUZ0-JnFa3bDS1Sj44mt8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "FoC-l5-y8Eo"
+        "videoId": "wCm17ul0ukc"
       },
       "snippet": {
-        "publishedAt": "2020-12-07T20:34:34Z",
-        "channelId": "UC9Dln8col-vr7GB1UTR789w",
-        "title": "HAIM - 3AM (Late Night with Seth Meyers)",
-        "description": "Women In Music Pt. iii out now: https://HAIM.lnk.to/WIMPIIIID Follow HAIM: https://www.instagram.com/haimtheband/ https://www.facebook.com/haimtheband ...",
+        "publishedAt": "2020-07-10T13:43:08Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Numb (garage session)",
+        "description": "http://menitrust.tumblr.com https://www.instagram.com/menitrust https://menitrust.bandcamp.com https://www.facebook.com/menitrust * Garage sessions FAQ: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/FoC-l5-y8Eo/default.jpg",
+            "url": "https://i.ytimg.com/vi/wCm17ul0ukc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/FoC-l5-y8Eo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wCm17ul0ukc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/FoC-l5-y8Eo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/wCm17ul0ukc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HAIM",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-12-07T20:34:34Z"
+        "publishTime": "2020-07-10T13:43:08Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "paD2Rq4_lnvUg81v3KtQWCR82W8",
+      "etag": "uOGJ4rrD7t80vV5rUlM4QevESJI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "MBDN0CD3HZ4"
+        "videoId": "zIGfy4BMvDg"
       },
       "snippet": {
-        "publishedAt": "2020-11-28T13:42:00Z",
-        "channelId": "UC-SJ6nODDmufqBzPBwCvYvQ",
-        "title": "Saturday Sessions: Haim performs &quot;The Steps&quot;",
-        "description": "Southern California music group Haim — made up of sisters Alana, Este and Danielle — are nominated for two 2020 Grammy Awards, including Album of the ...",
+        "publishedAt": "2020-10-02T12:07:20Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Lucky Sue (HQ)",
+        "description": "Stream everywhere: http://smarturl.it/luckysue https://menitrust.tumblr.com Cover Art by Oda Iselin, https://odaiselin.com/ Lyrics Had she lost another one She ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/MBDN0CD3HZ4/default.jpg",
+            "url": "https://i.ytimg.com/vi/zIGfy4BMvDg/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/MBDN0CD3HZ4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zIGfy4BMvDg/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/MBDN0CD3HZ4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zIGfy4BMvDg/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "CBS This Morning",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-11-28T13:42:00Z"
+        "publishTime": "2020-10-02T12:07:20Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "qyXhWD78zjkhtDEsxTin0wijrwE",
+      "etag": "qFaaQELMStjCwJnDN6ZtKQRNN48",
       "id": {
         "kind": "youtube#video",
-        "videoId": "cl0nBN1r2c0"
+        "videoId": "DyMVfGlL5_Q"
       },
       "snippet": {
-        "publishedAt": "2020-08-20T17:00:08Z",
-        "channelId": "UCq4isO8ZYOZfmvGJ-_1UdIA",
-        "title": "Haim Performs &quot;Gasoline&quot; | Press Play",
-        "description": "Los Angeles family band Haim lay it down and light it up with this at-home performance of \"Gasoline\" from their newly released third album, 'Women In Music Pt.",
+        "publishedAt": "2018-11-30T13:27:26Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Say Can You Hear",
+        "description": "Video by Men I Trust Acting: Petrus Graham Lights: Keven Savard http://menitrust.tumblr.com/ https://www.instagram.com/menitrust ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/cl0nBN1r2c0/default.jpg",
+            "url": "https://i.ytimg.com/vi/DyMVfGlL5_Q/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/cl0nBN1r2c0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DyMVfGlL5_Q/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/cl0nBN1r2c0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/DyMVfGlL5_Q/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Recording Academy / GRAMMYs",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-08-20T17:00:08Z"
+        "publishTime": "2018-11-30T13:27:26Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "65O6T_FfYd2ZR0J8Av4HyG2qV9s",
+      "etag": "Hy0LajFa3UL1Vi53JhTm17pPhpE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "1TffpkE2GU4"
+        "videoId": "PW_-m0rW6QI"
       },
       "snippet": {
-        "publishedAt": "2013-08-12T19:01:08Z",
-        "channelId": "UCW0rqnEt1YiuhM7I28l6L2g",
-        "title": "HAIM - The Wire (Official Music Video)",
-        "description": "'The Wire' is taken from 'Days Are Gone' Available now: http://smarturl.it/DaysAreGone Available on vinyl- US: http://haaa.im/HJ4qzm EU: http://haaa.im/Uxfa ...",
+        "publishedAt": "2017-09-05T01:45:59Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Break for lovers (live)",
+        "description": "Three weeks ago we took some time off to record a few live sessions. Here's \"Break For Lovers\", a track from our album Headroom (2015). We hope you'll enjoy ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/1TffpkE2GU4/default.jpg",
+            "url": "https://i.ytimg.com/vi/PW_-m0rW6QI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/1TffpkE2GU4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PW_-m0rW6QI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/1TffpkE2GU4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/PW_-m0rW6QI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HaimVEVO",
+        "channelTitle": "Men I Trust",
         "liveBroadcastContent": "none",
-        "publishTime": "2013-08-12T19:01:08Z"
+        "publishTime": "2017-09-05T01:45:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dB8OJNiTO0uH45Q3IsQDA054se4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cc6JAwM29_Y"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-04T20:26:59Z",
+        "channelId": "UCOzZL8Sd8V8yFGWqOHnVqFA",
+        "title": "Men I Trust - Humming man",
+        "description": "Shot & directed by Men I Trust Lights: Keven Savard http://www.menitrust.com/ https://www.instagram.com/menitrust/ https://www.facebook.com/menitrust/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cc6JAwM29_Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cc6JAwM29_Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cc6JAwM29_Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Men I Trust",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-04T20:26:59Z"
       }
     }
   ]
