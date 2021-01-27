@@ -7,10 +7,9 @@
   margin: 10px 10px;
   width: 380px;
   height: 300px;
-  box-shadow: 3px 3px 5px 0 rgba(191, 191, 191, 0.52);
+  box-shadow: 3px 3px 5px 0 rgba(191, 191, 191, 0.8);
   border: 1px gainsboro solid;
-  border-radius: 0.5rem;
-  cursor: pointer;
+
   transition: transform 250ms ease-in;
 }
 
@@ -23,20 +22,78 @@
   width: 320px;
   top: 25px;
 }
+
 .image {
   width: 320px;
   height: 180px;
-  margin-bottom: 5px;
+  cursor: pointer;
 }
 
-p {
+.content {
+  position: relative;
   font-size: 16px;
   margin-bottom: 3px;
   display: block;
   text-align: left;
 }
 
-.channelTitle {
+.title {
+  margin-top: 8px;
+  font-size: 15px;
   font-weight: 800;
-  margin-top: 5px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
+
+.channelTitle {
+  margin-top: 5px;
+  font-size: 15px;
+}
+
+.icon {
+  position: absolute;
+  padding: 0;
+  right: 0;
+  color: grey;
+  font-size: 20px;
+  animation: scale-down-center 200ms ease-in;
+}
+.icon:active {
+  color: rgb(205, 2, 2);
+}
+.clickIcon {
+  position: absolute;
+  padding: 0;
+  right: 0;
+  font-size: 20px;
+  color: rgb(205, 2, 2);
+  animation: scale-up-center 200ms ease-in;
+}
+
+@keyframes scale-up-center {
+  0% {
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+@keyframes scale-down-center {
+  0% {
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+/* .scale-up-center {
+  -webkit-animation: scale-up-center 600ms cubic-bezier(0.39, 0.575, 0.565, 1)
+    both;
+  animation: scale-up-center 600ms cubic-bezier(0.39, 0.575, 0.565, 1) both;
+} */

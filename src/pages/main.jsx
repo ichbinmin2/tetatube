@@ -1,63 +1,54 @@
-import React, { Component } from "react";
+import React, { useEffect, useState } from "react";
 import Nav from "../components/nav/nav";
-import MostPopular from "../components/mostPopular";
-import styles from "./main.module.css";
+import VideoList from "../components/video_list/video_list";
+import styles from "../pages/main.module.css";
+import VideoDetail from "../components/video_detail/video_detail";
 
-const MOSTAPI =
-  "https://youtube.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResults=24&key=AIzaSyBQO5uEgqO95vZKZU5lJiB2SotT7poyfA4";
+function Main({ youtube }) {
+  const [videos, setVideos] = useState([]);
+  const [selectedVideo, setSelectedVideo] = useState(null);
+  const [open, setOpen] = useState(false);
 
-class Main extends Component {
-  constructor() {
-    super();
-    this.state = {
-      videoCard: [],
-    };
-  }
+  const handlerModal = (event) => {
+    setOpen(!open);
+    console.log(open);
+  };
 
-  // componentDidMount = () => {
-  //   fetch(`${MOSTAPI}`, {
-  //     method: "GET",
-  //     redirect: "follow",
-  //   })
-  //     .then((res) => res.json())
+  const selectVideo = (video) => {
+    setSelectedVideo(video);
+    handlerModal();
+    // state를 업데이트
+    console.log(video);
+  };
+  const search = (query) => {
+    youtube
+      .search(query) //
+      .then((videos) => setVideos(videos));
+  };
 
-  //     .then((res) => {
-  //       const mappingArray = res.items.map((item) => {
-  //         return item.snippet;
-  //       });
-  //       this.setState({
-  //         videoCard: mappingArray,
-  //       });
-  //     })
-  //     .then((res) => console.log("데이터 전송 완료"))
-  //     .catch((error) => console.log("error", error));
-  // };
+  useEffect(() => {
+    youtube
+      .mostPopular() //
+      .then((videos) => setVideos(videos));
+  }, []);
 
-  render() {
-    const { videoCard } = this.state;
-    return (
-      <section className={styles.main}>
-        <Nav />
-        <div className={styles.boxList}>
-          <div className={styles.box}>
-            {videoCard.map((videoBox, idx) => {
-              return (
-                <MostPopular
-                  key={idx}
-                  id={videoBox.categoryId}
-                  videoCard={videoBox}
-                  videoTitle={videoBox.title}
-                  videoInfo={videoBox.description}
-                  videothumbnails={videoBox.thumbnails.medium.url}
-                  videoChannel={videoBox.channelTitle}
-                />
-              );
-            })}
-          </div>
+  return (
+    <div className={styles.app}>
+      <Nav onSearch={search} />
+      {open && selectedVideo ? (
+        <div className={styles.detail}>
+          <VideoDetail video={selectedVideo} modal={handlerModal} />
         </div>
-      </section>
-    );
-  }
+      ) : null}
+      <div className={styles.flex}>
+        <section className={styles.content}>
+          <div className={styles.videoBox}>
+            <VideoList videos={videos} onVideoClick={selectVideo} />
+          </div>
+        </section>
+      </div>
+    </div>
+  );
 }
 
 export default Main;

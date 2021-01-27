@@ -36,6 +36,7 @@ const Nav = ({ onSearch }) => {
           <img className={styles.icon} src="/images/search.png" alt="icon" />
         </button>
       </div>
+      <div className={styles.lineOne} />
     </header>
   );
 };
