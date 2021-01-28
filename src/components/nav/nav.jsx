@@ -21,7 +21,7 @@ const Nav = memo(({ onSearch, resetVideo }) => {
   return (
     <header className={styles.header}>
       <div className={styles.titleBox}>
-        <img className={styles.logo} src="/images/logo.png" alt="logo" />
+        <img className={styles.logo} src="images/logo.png" alt="logo" />
         <button className={styles.btn} onClick={resetVideo}>
           <span className={styles.title}>TETATUBE</span>
         </button>
@@ -35,7 +35,7 @@ const Nav = memo(({ onSearch, resetVideo }) => {
           onKeyPress={onKeyPress}
         />
         <button type="submit" onClick={onClick}>
-          <img className={styles.icon} src="/images/search.png" alt="icon" />
+          <img className={styles.icon} src="images/search.png" alt="icon" />
         </button>
       </div>
       <div className={styles.lineOne} />
