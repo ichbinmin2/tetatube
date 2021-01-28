@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tetatube/static/css/main.6f3cd6cd.chunk.css",
-    "main.js": "/tetatube/static/js/main.0675fc1b.chunk.js",
-    "main.js.map": "/tetatube/static/js/main.0675fc1b.chunk.js.map",
+    "main.js": "/tetatube/static/js/main.8e80bde4.chunk.js",
+    "main.js.map": "/tetatube/static/js/main.8e80bde4.chunk.js.map",
     "runtime-main.js": "/tetatube/static/js/runtime-main.b962396c.js",
     "runtime-main.js.map": "/tetatube/static/js/runtime-main.b962396c.js.map",
     "static/js/2.c6143310.chunk.js": "/tetatube/static/js/2.c6143310.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b962396c.js",
     "static/js/2.c6143310.chunk.js",
     "static/css/main.6f3cd6cd.chunk.css",
-    "static/js/main.0675fc1b.chunk.js"
+    "static/js/main.8e80bde4.chunk.js"
   ]
 }
