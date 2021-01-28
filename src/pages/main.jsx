@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from "react";
 import Nav from "../components/nav/nav";
 import VideoList from "../components/video_list/video_list";
-import styles from "../pages/main.module.css";
 import VideoDetail from "../components/video_detail/video_detail";
+import styles from "../pages/main.module.css";
+import "../styles/reset.css";
 
 function Main({ youtube }) {
   const [videos, setVideos] = useState([]);
@@ -11,15 +12,20 @@ function Main({ youtube }) {
 
   const handlerModal = (event) => {
     setOpen(!open);
-    console.log(open);
   };
 
   const selectVideo = (video) => {
     setSelectedVideo(video);
     handlerModal();
     // state를 업데이트
-    console.log(video);
   };
+
+  const resetVideo = () => {
+    youtube
+      .mostPopular() //
+      .then((videos) => setVideos(videos));
+  };
+
   const search = (query) => {
     youtube
       .search(query) //
@@ -30,11 +36,11 @@ function Main({ youtube }) {
     youtube
       .mostPopular() //
       .then((videos) => setVideos(videos));
-  }, []);
+  }, [youtube]);
 
   return (
     <div className={styles.app}>
-      <Nav onSearch={search} />
+      <Nav onSearch={search} resetVideo={resetVideo} />
       {open && selectedVideo ? (
         <div className={styles.detail}>
           <VideoDetail video={selectedVideo} modal={handlerModal} />

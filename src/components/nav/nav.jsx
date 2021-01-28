@@ -1,7 +1,7 @@
-import React, { useRef } from "react";
+import React, { memo, useRef } from "react";
 import styles from "../nav/nav.module.css";
 
-const Nav = ({ onSearch }) => {
+const Nav = memo(({ onSearch, resetVideo }) => {
   const inputRef = useRef();
   const handlerSearch = () => {
     const value = inputRef.current.value;
@@ -22,7 +22,9 @@ const Nav = ({ onSearch }) => {
     <header className={styles.header}>
       <div className={styles.titleBox}>
         <img className={styles.logo} src="/images/logo.png" alt="logo" />
-        <span className={styles.title}>TETATUBE</span>
+        <button className={styles.btn} onClick={resetVideo}>
+          <span className={styles.title}>TETATUBE</span>
+        </button>
       </div>
 
       <div className={styles.form}>
@@ -39,6 +41,6 @@ const Nav = ({ onSearch }) => {
       <div className={styles.lineOne} />
     </header>
   );
-};
+});
 
 export default Nav;

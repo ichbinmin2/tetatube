@@ -8,8 +8,8 @@ const VideoItem = ({ video, video: { snippet }, onVideoClick }) => {
 
   const handlerHeart = (event) => {
     setOnHeart(!onHeart);
-    console.log(onHeart);
   };
+
   return (
     <li className={styles.itemBox}>
       <div className={styles.item}>

@@ -5,18 +5,19 @@ const VideoDetail = ({ video, video: { snippet }, modal }) => {
   return (
     <section className={styles.section}>
       <div className={styles.overayBox} onClick={modal} />
-      <div>
+      <div className={styles.modalBox}>
         <div className={styles.header} onClick={modal}>
           <button className={styles.btn}>✖️</button>
         </div>
-        <div className={styles.modalBox}>
+        <div className={styles.content}>
           <iframe
+            title="youtube bideo frame"
             className={styles.video}
             type="text/html"
             src={`https://www.youtube.com/embed/${video.id}`}
-            frameborder="0"
-            allowfullscreen
-          />
+            frameBorder="0"
+            allowFullScreen
+          ></iframe>
           <div className={styles.textBox}>
             <div className={styles.titleBox}>
               <span className={styles.title}>{snippet.title}</span>
