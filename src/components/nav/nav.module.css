@@ -112,9 +112,17 @@
 
   .titleBox {
     flex-direction: column;
-    margin: 10px;
+    margin: 15px;
     width: 150px;
     height: 70px;
+  }
+
+  .logo {
+    margin: 0;
+  }
+
+  .icon {
+    right: 1.9rem;
   }
 
   .form {
