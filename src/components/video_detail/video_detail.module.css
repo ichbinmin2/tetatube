@@ -28,6 +28,7 @@
 
 .modalBox {
   box-shadow: 3px 3px 5px 0 rgba(191, 191, 191, 0.9);
+  animation: modalBoxIn 300ms ease-in-out;
 }
 
 .header {
@@ -119,23 +120,53 @@
     height: 450px;
   }
 
-  .textBox {
-    height: 150px;
-  }
-
   .titleBox {
-    padding: 8px;
+    padding: 10px;
   }
 
   .title {
-    padding-bottom: 2px;
-    font-size: 18px;
-    font-weight: 600;
+    font-size: 16px;
+  }
+
+  .textBox {
+    height: 150px;
   }
 
   .channel {
     margin-top: 5px;
     font-size: 14px;
+    font-weight: 500;
+  }
+
+  .description {
+    font-size: 13px;
+    line-height: 1rem;
+  }
+}
+
+/* mobile version */
+@media screen and (max-width: 375px) and (max-height: 667px) {
+  .header {
+    width: 320px;
+  }
+
+  .content {
+    margin: 0;
+    width: 320px;
+    height: 500px;
+  }
+
+  .textBox {
+    height: 300px;
+  }
+
+  .title {
+    font-size: 15px;
+    font-weight: 600;
+  }
+
+  .channel {
+    font-size: 11px;
     font-weight: 500;
   }
 

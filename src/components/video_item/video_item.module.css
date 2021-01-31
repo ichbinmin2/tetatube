@@ -61,9 +61,11 @@
   font-size: 20px;
   animation: scale-down-center 200ms ease-in;
 }
+
 .icon:active {
   color: rgb(205, 2, 2);
 }
+
 .clickIcon {
   position: absolute;
   padding: 0;
@@ -94,8 +96,35 @@
     transform: scale(1);
   }
 }
-/* .scale-up-center {
-  -webkit-animation: scale-up-center 600ms cubic-bezier(0.39, 0.575, 0.565, 1)
-    both;
-  animation: scale-up-center 600ms cubic-bezier(0.39, 0.575, 0.565, 1) both;
-} */
+
+/* mobile version */
+@media screen and (max-width: 375px) and (max-height: 667px) {
+  .itemBox {
+    width: 85%;
+    height: 275px;
+    transition: none;
+  }
+
+  .item {
+    top: 15px;
+    width: 280px;
+  }
+
+  .image {
+    width: inherit;
+    height: 160px;
+  }
+
+  .icon {
+    font-size: 32px;
+  }
+
+  .icon:active {
+    color: none;
+  }
+
+  .clickIcon {
+    color: rgb(205, 2, 2);
+    font-size: 32px;
+  }
+}
