@@ -42,7 +42,5 @@
 ![스크린샷 2021-02-01 오후 9 20 30](https://user-images.githubusercontent.com/53133662/106458496-d2a77900-64d3-11eb-9f7a-107346a89caf.png)
 
 #### 4) 반응형 css 구현
-![스크린샷 2021-02-01 오후 9 20 30](https://user-images.githubusercontent.com/53133662/106458496-d2a77900-64d3-11eb-9f7a-107346a89caf.png)
-![스크린샷 2021-02-01 오후 9 20 30](https://user-images.githubusercontent.com/53133662/106458496-d2a77900-64d3-11eb-9f7a-107346a89caf.png)
 ![스크린샷 2021-02-01 오후 9 21 32](https://user-images.githubusercontent.com/53133662/106458500-d3400f80-64d3-11eb-9cd6-94c5fe6de2cd.png)
 
