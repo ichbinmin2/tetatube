@@ -36,6 +36,7 @@
   position: relative;
   display: flex;
   align-items: center;
+  margin-right: 25px;
   width: 500px;
   height: 35px;
 }
@@ -76,7 +77,7 @@
 
   .titleBox {
     flex-direction: column;
-    margin: 10px;
+    margin: 15px;
     width: 150px;
     height: 80px;
   }
@@ -93,6 +94,7 @@
   .form {
     width: 380px;
     margin-bottom: 30px;
+    margin-right: 0;
   }
 
   .lineOne {
@@ -111,22 +113,22 @@
   .titleBox {
     flex-direction: column;
     margin: 15px;
-    width: 150px;
-    height: 70px;
+    height: 80px;
   }
 
   .logo {
-    margin: 0;
+    margin: 10px 0;
   }
 
   .icon {
-    right: 1.4rem;
+    right: 1.5rem;
   }
 
   .form {
     justify-content: center;
     width: 90%;
     margin-bottom: 20px;
+    margin-right: 0;
   }
 
   .lineOne {
