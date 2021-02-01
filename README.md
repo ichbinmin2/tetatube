@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+### ▪️ 프로젝트 소개
+> 동영상 스트리밍 서비스를 제공하는 **YouTube** 사이트를 기획과 디자인을 제외하고 주요 기능만을 구현한 clone 프로젝트입니다. youtube의 API를 활용하여 영상 스트리밍 페이지의 기능을 구현했습니다.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 👩🏻‍💻 Toy Project : Tetatube 
 
-## Available Scripts
+### ▪️ 프로젝트 개요
++ [tetatube 사이트 바로가기](https://ichbinmin2.github.io/tetatube/)
++ [velog 프로젝트 회고](https://velog.io/@ichbinmin2/Tetatube-Project)
 
-In the project directory, you can run:
+### ▪️ 기술 스택
++ ReactJS / React-Hooks / POSTcss 
++ Axios 라이브러리 
++ JavaScript(ES6) / HTML
 
-### `yarn start`
+### ▪️ 진행 도구
++ Notion (프로젝트 기능 구현 계획과 일정 관리)
++ Git + [GitHub](https://github.com/ichbinmin2/tetatube)
++ Postman (API data 관리)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### ▪️ 구현한 기능 
++ 기존의 디자인을 바탕으로 Component 설계
++ PostCSS를 이용한 효율적인 웹 디자인 구현
++ Youtube API와 Map method를 이용한 data render
++ 검색 결과에 따른 data render 기능 구현
++ Axios 라이브러리와 Dependency Injection을 통한 효율적인 API 관리
++ 각각의 component에 따른 Modal 구현
++ 반응형 웹페이지 구현
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+### ▪️ 구현 기능  영상 
+#### 1) Main Page(YouTube Most Popular Videos API)
+- Most Popular Videos API와 Map method를 이용한 자동 Data render
+![스크린샷 2021-02-01 오후 9 19 35](https://user-images.githubusercontent.com/53133662/106458481-cc190180-64d3-11eb-9c8d-4ab6c2e1e446.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+#### 2) Search Page(YouTube Search Videos API)
+- 검색 결과에 따른 Search Videos API data render 기능 구현
+![스크린샷 2021-02-01 오후 9 20 14](https://user-images.githubusercontent.com/53133662/106458492-d1764c00-64d3-11eb-8834-1e6589545133.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### 3) Modal 구현
+![스크린샷 2021-02-01 오후 9 20 30](https://user-images.githubusercontent.com/53133662/106458496-d2a77900-64d3-11eb-9f7a-107346a89caf.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### 4) 반응형 css 구현
+![스크린샷 2021-02-01 오후 9 20 30](https://user-images.githubusercontent.com/53133662/106458496-d2a77900-64d3-11eb-9f7a-107346a89caf.png)
+![스크린샷 2021-02-01 오후 9 20 30](https://user-images.githubusercontent.com/53133662/106458496-d2a77900-64d3-11eb-9f7a-107346a89caf.png)
+![스크린샷 2021-02-01 오후 9 21 32](https://user-images.githubusercontent.com/53133662/106458500-d3400f80-64d3-11eb-9cd6-94c5fe6de2cd.png)
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
