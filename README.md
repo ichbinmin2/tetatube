@@ -1,7 +1,7 @@
+## 👩🏻‍💻 Toy Project : Tetatube 
+
 ### ▪️ 프로젝트 소개
 > 동영상 스트리밍 서비스를 제공하는 **YouTube** 사이트를 기획과 디자인을 제외하고 주요 기능만을 구현한 clone 프로젝트입니다. youtube의 API를 활용하여 영상 스트리밍 페이지의 기능을 구현했습니다.
-
-## 👩🏻‍💻 Toy Project : Tetatube 
 
 ### ▪️ 프로젝트 개요
 + [tetatube 사이트 바로가기](https://ichbinmin2.github.io/tetatube/)
