@@ -41,6 +41,7 @@
 }
 
 .input {
+  position: absolute;
   padding: 0 40px 0 10px;
   width: inherit;
   height: inherit;
@@ -54,7 +55,7 @@
 .icon {
   position: absolute;
   width: 1.2rem;
-  right: 1.4rem;
+  right: 0.6rem;
   top: 0.5rem;
 }
 
@@ -70,7 +71,6 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    padding: 100px;
     height: 200px;
   }
 
@@ -78,32 +78,30 @@
     flex-direction: column;
     margin: 10px;
     width: 150px;
-    height: 120px;
+    height: 80px;
   }
 
   .logo {
+    margin: 10px 0;
     width: 50px;
-    margin: 0;
   }
 
   .title {
-    margin-top: 5px;
     font-size: 30px;
   }
 
   .form {
-    justify-content: center;
     width: 380px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
 
   .lineOne {
-    width: 700px;
+    width: 75%;
   }
 }
 
 /* mobile version */
-@media screen and (max-width: 375px) and (max-height: 667px) {
+@media screen and (max-width: 375px) {
   .header {
     flex-direction: column;
     width: 100%;
@@ -122,7 +120,7 @@
   }
 
   .icon {
-    right: 1.9rem;
+    right: 1.4rem;
   }
 
   .form {
