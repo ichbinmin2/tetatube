@@ -8,7 +8,7 @@
 + [velog 프로젝트 회고](https://velog.io/@ichbinmin2/Tetatube-Project)
 
 ### ▪️ 기술 스택
-+ ReactJS / React-Hooks / POSTcss 
++ ReactJS / React-Hooks / PostCss
 + Axios 라이브러리 
 + JavaScript(ES6) / HTML
 
