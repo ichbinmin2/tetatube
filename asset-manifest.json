@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tetatube/static/css/main.c181efcd.chunk.css",
+    "main.css": "/tetatube/static/css/main.6ddf05e3.chunk.css",
     "main.js": "/tetatube/static/js/main.f9f4b514.chunk.js",
     "main.js.map": "/tetatube/static/js/main.f9f4b514.chunk.js.map",
     "runtime-main.js": "/tetatube/static/js/runtime-main.b962396c.js",
@@ -8,13 +8,13 @@
     "static/js/2.c6143310.chunk.js": "/tetatube/static/js/2.c6143310.chunk.js",
     "static/js/2.c6143310.chunk.js.map": "/tetatube/static/js/2.c6143310.chunk.js.map",
     "index.html": "/tetatube/index.html",
-    "static/css/main.c181efcd.chunk.css.map": "/tetatube/static/css/main.c181efcd.chunk.css.map",
+    "static/css/main.6ddf05e3.chunk.css.map": "/tetatube/static/css/main.6ddf05e3.chunk.css.map",
     "static/js/2.c6143310.chunk.js.LICENSE.txt": "/tetatube/static/js/2.c6143310.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b962396c.js",
     "static/js/2.c6143310.chunk.js",
-    "static/css/main.c181efcd.chunk.css",
+    "static/css/main.6ddf05e3.chunk.css",
     "static/js/main.f9f4b514.chunk.js"
   ]
 }
