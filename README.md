@@ -14,7 +14,7 @@
 
 ### ▪️ 진행 도구
 + Notion (프로젝트 기능 구현 계획과 일정 관리) 
-![스크린샷 2021-02-02 오후 4 51 26](https://user-images.githubusercontent.com/53133662/106569817-5f0b7780-6578-11eb-9a95-b6105340409e.png)
+![스크린샷 2021-02-02 오후 5 06 42](https://user-images.githubusercontent.com/53133662/106570320-10121200-6579-11eb-90c7-7d79e4ba3885.png)
 ![스크린샷 2021-02-02 오후 5 01 30](https://user-images.githubusercontent.com/53133662/106569772-51ee8880-6578-11eb-9092-f17871035a2f.png)
 + Git + [GitHub](https://github.com/ichbinmin2/tetatube)
 + Postman (API data 관리)
