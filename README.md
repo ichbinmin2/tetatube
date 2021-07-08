@@ -34,14 +34,14 @@
 
 ### ▪️ 구현 기능 요약 
 #### 1) Main Page(YouTube Most Popular Videos API)
-- Most Popular Videos API와 Map method를 이용한 자동 Data render
+#### Most Popular Videos API와 Map method를 이용한 자동 Data render
 ![ANB773](https://user-images.githubusercontent.com/53133662/124849283-6e846600-dfd9-11eb-9ef9-ca11366c09f3.gif)
 - 현재 Youtube에서 스트리밍 되는 영상 중 사용자들이 가장 많이 보는 영상을 확인할 수 있는 메인 페이지입니다.
 - Youtube 서비스 API 만 받아오는 `class` 를 만들어서, `mostPopular` 함수로 `mostPopular` API를 담아 관리하였고, `useEffect` 함수를 사용하여 해당 youtube API를 받아올 때마다 자동으로 렌더될 수 있도록 하였습니다.
 
 
 #### 2) Search Page(YouTube Search Videos API)
-- 검색 결과에 따른 Search Videos API data render 기능 구현
+#### 검색 결과에 따른 Search Videos API data render 기능 구현
 ![K1PkkM](https://user-images.githubusercontent.com/53133662/124849294-70e6c000-dfd9-11eb-8f5a-ace582c81e6e.gif)
 - 현재 Youtube에서 스트리밍 되는 영상 중 검색에 따라 해당하는 결과를 확인할 수 있는 검색 페이지입니다.
 - Youtube 서비스 API 만 받아오는 `class` 를 만들어서, `search` 함수로 **search video API**를 담아 관리하였습니다.
@@ -68,7 +68,7 @@
 #### Axios 라이브러리 와 Dependency Injection을 통한 API 보안 관리
 - 최상위에서 .env(환경파일)을 만든 뒤에 API KEY 를 담아 변수 선언 해주고 가장 최상위 파일인 index.js에 axios.create 명령어를 사용하여 params의 오브젝트 key를 process.env.REACT_APP_YOUTUBE_API_KEY 로 값을 설정해주었습니다. 
 
-<pre><code>{
+```jsx
 
 import React from "react";
 import ReactDOM from "react-dom";
@@ -89,13 +89,13 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById("root")
 );
-}</code></pre>
+```
 
 ![image](https://user-images.githubusercontent.com/53133662/124847966-e3a26c00-dfd6-11eb-85fe-7c049fb70d5c.png)
 
 - Youtube 서비스 통신 API 만 받아오는 class js 파일을 만든 후, 서비스 기능에 맞는 함수에 각각 API를 담아 관리하였고, 해당 API가 필요한 컴포넌트에서 해당 함수를 받아오는 방식으로 구현하였습니다.
 
-<pre><code>{
+```jsx
 class Youtube {
   constructor(httpClient) {
     this.youtube = httpClient;
@@ -132,5 +132,5 @@ class Youtube {
 }
 
 export default Youtube;
-}</code></pre>
+```
 
