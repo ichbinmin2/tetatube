@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./video_detail.module.css";
+import styles from "./videoDetail.module.css";
 
 const VideoDetail = ({ video, video: { snippet }, modal }) => {
   return (

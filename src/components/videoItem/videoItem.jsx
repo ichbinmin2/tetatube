@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import styles from "../video_item/video_item.module.css";
+import styles from "../videoItem/videoItem.module.css";
 import { faGratipay } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 

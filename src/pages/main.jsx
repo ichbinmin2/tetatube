@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Nav from "../components/nav/nav";
-import VideoList from "../components/video_list/video_list";
-import VideoDetail from "../components/video_detail/video_detail";
+import VideoList from "../components/videoList/videoList";
+import VideoDetail from "../components/videoDetail/videoetail";
 import styles from "../pages/main.module.css";
 import "../styles/reset.css";
 
@@ -17,7 +17,6 @@ function Main({ youtube }) {
   const selectVideo = (video) => {
     setSelectedVideo(video);
     handlerModal();
-    // state를 업데이트
   };
 
   const resetVideo = () => {
