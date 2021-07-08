@@ -66,7 +66,8 @@
 
 ### ◼️ 기억에 남는 코드
 #### Axios 라이브러리 와 Dependency Injection을 통한 API 보안 관리
-- 최상위에서 .env(환경파일)을 만든 뒤에 API KEY 를 담아 변수 선언 해주고 가장 최상위 파일인 index.js에 axios.create 명령어를 사용하여 params의 오브젝트 key를 process.env.REACT_APP_YOUTUBE_API_KEY 로 값을 설정해주었습니다. 
+- 팀 프로젝트를 진행했을 때에는 백엔드에서 관리를 해주고, 프론트에서 받아오는 방식으로 사용했었으나, 직접 API를 받고 배포까지 진행해야 했기 때문에 간단하게나마 Axios 라이브러리를 사용하고 Dependency Injection 을 통해 보안과 가독성을 염두에둔 효율적인 API 관리가 필요했습니다. 이를 위해서 Dependency Injection 방식을 차용하였습니다.
+- 최상위에서 .env(환경파일)을 만든 뒤에 API KEY 를 담아 변수 선언 해주고 가장 최상위 파일인 index.js에 axios.create 명령어를 사용하여 params의 오브젝트 key를 process.env.REACT_APP_YOUTUBE_API_KEY 로 값을 설정해주었습니다. 
 
 ```jsx
 
@@ -94,6 +95,7 @@ ReactDOM.render(
 ![image](https://user-images.githubusercontent.com/53133662/124847966-e3a26c00-dfd6-11eb-85fe-7c049fb70d5c.png)
 
 - Youtube 서비스 통신 API 만 받아오는 class js 파일을 만든 후, 서비스 기능에 맞는 함수에 각각 API를 담아 관리하였고, 해당 API가 필요한 컴포넌트에서 해당 함수를 받아오는 방식으로 구현하였습니다.
+- index.js로부터 전달받은 httpClient을 할당해주었고 각 데이터를 받아올 때 사용해주었습니다. 코드의 가독성을 높이기 위해서 각각의 데이터 조건에 해당하는 값들은 getd으로 받아온 뒤 params 안에서 정리해주었습니다.
 
 ```jsx
 class Youtube {
