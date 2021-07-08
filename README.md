@@ -32,7 +32,7 @@
 + 반응형 웹페이지 구현
 
 
-### ▪️ 구현 기능  영상 
+### ▪️ 구현 기능 요약 
 #### 1) Main Page(YouTube Most Popular Videos API)
 - Most Popular Videos API와 Map method를 이용한 자동 Data render
 ![ANB773](https://user-images.githubusercontent.com/53133662/124849283-6e846600-dfd9-11eb-9ef9-ca11366c09f3.gif)
