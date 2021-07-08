@@ -95,7 +95,7 @@ ReactDOM.render(
 ![image](https://user-images.githubusercontent.com/53133662/124847966-e3a26c00-dfd6-11eb-85fe-7c049fb70d5c.png)
 
 - Youtube 서비스 통신 API 만 받아오는 class js 파일을 만든 후, 서비스 기능에 맞는 함수에 각각 API를 담아 관리하였고, 해당 API가 필요한 컴포넌트에서 해당 함수를 받아오는 방식으로 구현하였습니다.
-- index.js로부터 전달받은 httpClient을 할당해주었고 각 데이터를 받아올 때 사용해주었습니다. 코드의 가독성을 높이기 위해서 각각의 데이터 조건에 해당하는 값들은 getd으로 받아온 뒤 params 안에서 정리해주었습니다.
+- index.js로부터 전달받은 httpClient을 할당해주었고 각 데이터를 받아올 때 사용해주었습니다. 코드의 가독성을 높이기 위해서 각각의 데이터 조건에 해당하는 값들은 get으로 받아온 뒤 params 안에서 정리해주었습니다.
 
 ```jsx
 class Youtube {
