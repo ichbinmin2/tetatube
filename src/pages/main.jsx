@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Nav from "../components/nav/nav";
 import VideoList from "../components/videoList/videoList";
-import VideoDetail from "../components/videoDetail/videoetail";
+import VideoDetail from "../components/videoDetail/videoDetail";
 import styles from "../pages/main.module.css";
 import "../styles/reset.css";
 
