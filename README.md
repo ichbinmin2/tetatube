@@ -62,11 +62,11 @@
 #### 5) 반응형 css 구현
 ![ezgif com-gif-maker_(1)](https://user-images.githubusercontent.com/53133662/124849569-f9656080-dfd9-11eb-8666-c2fbfdc4fe27.gif)
 
-@media screen 을 이용하여 반응형 사이트를 구현했습니다.
+- @media screen 을 이용하여 반응형 사이트를 구현했습니다.
 
 ### ◼️ 기억에 남는 코드
 #### Axios 라이브러리 와 Dependency Injection을 통한 API 보안 관리
-최상위에서 .env(환경파일)을 만든 뒤에 API KEY 를 담아 변수 선언 해주고 가장 최상위 파일인 index.js에 axios.create 명령어를 사용하여 params의 오브젝트 key를 process.env.REACT_APP_YOUTUBE_API_KEY 로 값을 설정해주었습니다. 
+- 최상위에서 .env(환경파일)을 만든 뒤에 API KEY 를 담아 변수 선언 해주고 가장 최상위 파일인 index.js에 axios.create 명령어를 사용하여 params의 오브젝트 key를 process.env.REACT_APP_YOUTUBE_API_KEY 로 값을 설정해주었습니다. 
 
 <pre><code>{
 
@@ -93,7 +93,7 @@ ReactDOM.render(
 
 ![image](https://user-images.githubusercontent.com/53133662/124847966-e3a26c00-dfd6-11eb-85fe-7c049fb70d5c.png)
 
-Youtube 서비스 통신 API 만 받아오는 class js 파일을 만든 후, 서비스 기능에 맞는 함수에 각각 API를 담아 관리하였고, 해당 API가 필요한 컴포넌트에서 해당 함수를 받아오는 방식으로 구현하였습니다.
+- Youtube 서비스 통신 API 만 받아오는 class js 파일을 만든 후, 서비스 기능에 맞는 함수에 각각 API를 담아 관리하였고, 해당 API가 필요한 컴포넌트에서 해당 함수를 받아오는 방식으로 구현하였습니다.
 
 <pre><code>{
 class Youtube {
